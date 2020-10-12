@@ -1,0 +1,39 @@
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/bin/Debug/netcoreapp3.1/PokeSim
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/bin/Debug/netcoreapp3.1/PokeSim.deps.json
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/bin/Debug/netcoreapp3.1/PokeSim.runtimeconfig.json
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/bin/Debug/netcoreapp3.1/PokeSim.runtimeconfig.dev.json
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/bin/Debug/netcoreapp3.1/PokeSim.dll
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/bin/Debug/netcoreapp3.1/PokeSim.pdb
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/obj/Debug/netcoreapp3.1/PokeSim.csprojAssemblyReference.cache
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/obj/Debug/netcoreapp3.1/PokeSim.csproj.CoreCompileInputs.cache
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/obj/Debug/netcoreapp3.1/PokeSim.AssemblyInfoInputs.cache
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/obj/Debug/netcoreapp3.1/PokeSim.AssemblyInfo.cs
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/obj/Debug/netcoreapp3.1/PokeSim.dll
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/obj/Debug/netcoreapp3.1/PokeSim.pdb
+/home/luzm/git/IT2154_advanced_programming/lesson9/assignment1/answers/PokeSim/obj/Debug/netcoreapp3.1/PokeSim.genruntimeconfig.cache
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\bin\Debug\netcoreapp3.1\PokeSim.exe
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\bin\Debug\netcoreapp3.1\PokeSim.deps.json
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\bin\Debug\netcoreapp3.1\PokeSim.runtimeconfig.json
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\bin\Debug\netcoreapp3.1\PokeSim.runtimeconfig.dev.json
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\bin\Debug\netcoreapp3.1\PokeSim.dll
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\bin\Debug\netcoreapp3.1\PokeSim.pdb
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.csprojAssemblyReference.cache
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.AssemblyInfoInputs.cache
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.AssemblyInfo.cs
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.csproj.CoreCompileInputs.cache
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.dll
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.pdb
+C:\Users\whjw1\Documents\GitHub\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.genruntimeconfig.cache
+D:\Advanced Programming\PokeSim\bin\Debug\netcoreapp3.1\PokeSim.exe
+D:\Advanced Programming\PokeSim\bin\Debug\netcoreapp3.1\PokeSim.deps.json
+D:\Advanced Programming\PokeSim\bin\Debug\netcoreapp3.1\PokeSim.runtimeconfig.json
+D:\Advanced Programming\PokeSim\bin\Debug\netcoreapp3.1\PokeSim.runtimeconfig.dev.json
+D:\Advanced Programming\PokeSim\bin\Debug\netcoreapp3.1\PokeSim.dll
+D:\Advanced Programming\PokeSim\bin\Debug\netcoreapp3.1\PokeSim.pdb
+D:\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.csprojAssemblyReference.cache
+D:\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.AssemblyInfoInputs.cache
+D:\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.AssemblyInfo.cs
+D:\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.csproj.CoreCompileInputs.cache
+D:\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.dll
+D:\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.pdb
+D:\Advanced Programming\PokeSim\obj\Debug\netcoreapp3.1\PokeSim.genruntimeconfig.cache
