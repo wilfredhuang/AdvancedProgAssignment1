@@ -1,5 +1,6 @@
 # Assignment 1 Advanced Programming Module IT2154
 
+## Pokemon Battle Mini-game
 This is what i submitted for Assignment 1 of Advanced Programming Module, the files contain all the correct answers for the request 'pokemon' game program which make up 30% of the module
 
 It is a mini-game coded in c# to simulate 'pokemon' battles , a pokemon can perform their special attacks and deal damage to the opponent, when the opponent health points reaches 0, the game ends.
